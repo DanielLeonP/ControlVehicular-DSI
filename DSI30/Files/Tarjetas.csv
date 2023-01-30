@@ -1,0 +1,8 @@
+Folio, FechaExp, OficinaExp, Uso, TipoServicio, Movimiento, IdPropietario, IdVehiculo 
+AI, 2021-05-14, 1111111, 1, Privado, 1111, 1, 1
+AI, 2021-04-08, 1, 65, Privado, 12, 1, 1
+AI, 2021-04-13, 2, 65, Privado, 12, 2, 2
+AI, 2021-04-13, 2, 65, Privado, 12, 4, 3
+AI, 2021-04-13, 2, 65, Privado, 12, 5, 4
+AI, 2021-04-13, 6, 12, Privado, 12, 6, 5
+AI, 2021-04-13, 8, 12, Privado, 12, 7, 6

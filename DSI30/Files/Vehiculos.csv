@@ -1,0 +1,10 @@
+IdVehiculo, Marca, Color, Modelo, Transmision, NumeroMotor, Cilindro, Asiento, Puerta, Capacidad, Origen, Combustible, Linea, Sublinea, Tipo, Clase, ClaveVehicular, Placa, NumeroSerie 
+AI, Ferrari, rojo, 2020, 1, 135, 8, 2, 2, 2, Europa, 1, 15, 35, aa, 2, 48513, 248dgrf2, 135843516465
+AI, Toyota, Arena, 2011, 2, 48652, 4, 5, 4, 5, Japon, 1, 12, 21, Privado, 312, 48596, sud84654, 148513697555
+AI, Volkswagen, Rojo, 2015, 1, 45652, 4, 5, 4, 5, Europa, 1, 52, 78, Privado, 636, 52782, ult9862, 14793254765
+AI, Volkswagen, Rojo, 2015, 1, 45652, 4, 5, 4, 5, Europa, 1, 52, 78, Privado, 636, 52782, asd87875, 596248845
+AI, Ford, Blanco, 2020, 1, 58746, 4, 2, 2, 3, EUA, 2, 96, 72, Privado, 634, 96965, bjf78965, 2365236547
+AI, Chevrolet, Negro, 2003, 1, 78966, 4, 2, 2, 3, EUA, 2, 96, 72, Privado, 634, 96965, daw98765, 987452138
+AI, Chevrolet, Rojo, 2003, 1, 78966, 4, 2, 2, 3, EUA, 2, 96, 72, Privado, 634, 96965, uyj36985, 8625456
+AI, Chevrolet, Verde, 2003, 1, 78966, 4, 2, 2, 3, EUA, 2, 96, 72, Privado, 634, 96965, uie98632, 1478526954
+AI, Volkswagen, Negro, 2003, 1, 78966, 4, 4, 4, 5, Europa, 2, 96, 72, Privado, 634, 96965, ert98745, 15926874651

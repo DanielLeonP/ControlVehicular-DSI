@@ -1,0 +1,9 @@
+Numero, FechaExp, Tipo, FechaVencimiento, IdConductor 
+AI, 2021-05-14, 123, 2021-05-13, 5
+AI, 2021-05-11, Publico, 2021-05-12, 4
+AI, 2021-04-07, Automovilista, 2024-10-15, 1
+AI, 2021-04-09, Automovilista, 2024-10-18, 2
+AI, 2021-04-01, Automovilista, 2024-10-21, 3
+AI, 2021-04-24, Automovilista, 2024-10-30, 4
+AI, 2021-04-11, Automovilista, 2024-10-13, 5
+AI, 2021-04-07, Automovilista, 2024-10-09, 6
